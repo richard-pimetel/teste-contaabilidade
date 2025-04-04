@@ -252,14 +252,7 @@ function App() {
                 
               </p>
             </div>
-            <div>
-              <h3 className="text-xl font-semibold mb-4">Redes Sociais</h3>
-              <div className="flex gap-4">
-                <a href="#" className="text-gray-400 hover:text-white transition">LinkedIn</a>
-                <a href="#" className="text-gray-400 hover:text-white transition">Instagram</a>
-                <a href="#" className="text-gray-400 hover:text-white transition">Facebook</a>
-              </div>
-            </div>
+            
           </div>
           <div className="border-t border-gray-700 pt-8 text-center">
             <p>&copy; {new Date().getFullYear()} Contabilidade Profissional. Todos os direitos reservados.</p>
