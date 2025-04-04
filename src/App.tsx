@@ -248,7 +248,7 @@ function App() {
             <div>
               <h3 className="text-xl font-semibold mb-4">Horário de Atendimento</h3>
               <p className="text-gray-400">
-                Segunda a Sexta: 8h30 às 18h<br />
+                Segunda a Sexta: 9h às 18h<br />
                 
               </p>
             </div>
